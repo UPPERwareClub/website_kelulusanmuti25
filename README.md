@@ -6,7 +6,7 @@
 >
 > Berikut ini skrinsut ancamannya:
 >
-> <img src="https://github.com/slametbsan/kelulusan/blob/kelulusan/kelulusan-ancaman1.png" alt="alt text" width="400">
+> <img src="https://github.com/UPPERwareClub/website_kelulusanmuti25/blob/kelulusan25/kelulusan-ancaman1.png" alt="alt text" width="400">
 
 
 # Aplikasi Pengumuman Kelulusan SMK
@@ -37,8 +37,10 @@ Masih juga bermasalah? Sebaiknya anda *hire* orang IT beneran yang bisa koding u
 
 ## Skrinsut
 
-<img src="https://github.com/slametbsan/kelulusan/blob/kelulusan/screenshot1.png" alt="alt text" width="400">
-<img src="https://github.com/slametbsan/kelulusan/blob/kelulusan/screenshot2.png" alt="alt text" width="400">
+<img src="https://github.com/UPPERwareClub/website_kelulusanmuti25/blob/kelulusan25/screenshot1.png" alt="alt text" width="400">
+<img src="https://github.com/UPPERwareClub/website_kelulusanmuti25/blob/kelulusan25/screenshot2.png" alt="alt text" width="400">
+<img src="https://github.com/UPPERwareClub/website_kelulusanmuti25/blob/kelulusan25/screenshot3.jpg" alt="alt text" width="400">
+<img src="https://github.com/UPPERwareClub/website_kelulusanmuti25/blob/kelulusan25/screenshot4.jpg" alt="alt text" width="400">
 
 ## Spesifikasi
 1. Aplikasi ini ditulis dalam skrip PHP 5.x (ke atas) yang mendukung penggunaan sintaks _MySQL Improved_.
